@@ -3,7 +3,7 @@
 **Project:** Transaction Processing Service (Spring Boot 3.5.5 / Java 17)  
 **Candidate Name:** M. Varun Reddy  
 **Development Environment:** Visual Studio Code  
-**Submission Date:** September 2026  
+**Submission Date:**2 September 2026  
 
 ---
 
